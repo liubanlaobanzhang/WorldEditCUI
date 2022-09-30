@@ -1,6 +1,6 @@
 WorldEditCUI
 ------------
-
+。
 [![Actions Status](https://github.com/EngineHub/WorldEditCUI/actions/workflows/build.yml/badge.svg)](https://github.com/EngineHub/WorldEditCUI/actions/workflows/build.yml)
 
 A graphical user interface for [WorldEdit]. WorldEditCUI is designed 
